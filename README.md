@@ -9,6 +9,6 @@
 - 💬 Ask me about: Web Development, Cloud Computing, Community Joining & Self Improvement/Building (Personal Brand)...
 - 📫 Wanna connect with me ?? Reach me out on : https://www.linkedin.com/in/muhammad-usman.aamir
 - OR Contact me at: usman.aamir404@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a good listener & can grab you up a cup of Tea, also I love to travel ...
 
