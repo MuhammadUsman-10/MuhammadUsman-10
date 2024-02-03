@@ -1,6 +1,7 @@
 ### Hi there, this is Muhammad Usman 👋
 
 
+- I'm A CS Undergraduate student from UET, Peshawar, Pakistan
 - 🔭 I’m currently working on Full Stack Web Development Projects.
 - 🌱 I’m currently learning Full Stack Web Development & Cloud Computing.
 - 👯 I’m looking to collaborate on Web Projects & Community Work.
