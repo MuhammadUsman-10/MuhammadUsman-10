@@ -15,6 +15,9 @@ Full Stack Developer
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a good listener & can grab you up a cup of Tea, also I love to travel ...
 
+<a href="https://www.github.com/MuhammadUsman-10" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MuhammadUsman-10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
