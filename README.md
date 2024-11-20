@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 - 👨🏼‍💻 I'm A CS Undergraduate student from UET, Peshawar, Pakistan
-- 🚀  I'm currently working on [Dribble Clone](http://www.dribble.com)
+- 🚀  I'm currently working on [Dribble Clone](http://www.dribbble.com)
 - 🧠  I'm learning React & Next.js with Tailwindcss
 - 😎 I'm a part of GDSC UETP & GDG Peshawar also other Tech Communities.
 - 🤝  I'm open to collaborating on Frontend, Backend, Full Stack Projects
