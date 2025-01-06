@@ -5,10 +5,10 @@ Full Stack Developer
 --------------------
 
 - 👨🏼‍💻 I'm A CS Undergraduate student from UET, Peshawar, Pakistan
-- 🚀  I'm currently working on [Dribble Clone](http://www.dribbble.com)
-- 🧠  I'm learning React & Next.js with Tailwindcss
-- 😎 I'm a part of GDSC UETP & GDG Peshawar also other Tech Communities.
-- 🤝  I'm open to collaborating on Frontend, Backend, Full Stack Projects
+- 🚀  I'm currently working on [ISA-Backend](devbackend.isaworkbridge.com/docs/)
+- 🧠  I'm learning React, Next.js with Tailwindcss, and Advance Backend Development using Node.js, Docker and MySQL with Sequelize ORM.
+- 😎 I'm a part of GDG Peshawar also other Tech Communities.
+- 🤝 I'm open to collaborating on Frontend, Backend, Full Stack Projects
 - 🔰 And looking for guidance & mentorship from different tech expert & software engineers.
 - 💬 Ask me about: Web Development, Cloud Computing, Community Joining & Self Improvement/Building (Personal Brand)
 - 📧 Contact me at: usman.aamir404@gmail.com
