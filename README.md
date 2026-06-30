@@ -19,7 +19,7 @@ I'm a passionate developer with diverse interests spanning **Full Stack Developm
 
 ## ⭐ LATEST PROJECTS
 
-| **[MoneySavingPharmacy]** | **[ConraceptionHub]** |
+| **MoneySavingPharmacy** | **ConraceptionHub** |
 |---|---|
 | **[MoneySavingPharmacy](https://msp.up.railway.app/)**<br/>A full functional pharmacy e-commerce store with Admin dashboard. Features include Weightloss and other medical consultations, payment integration & automated-shipments, etc. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white) | **[ContraceptionHub](https://contraceptionhub.up.railway.app/)**<br/>It's a healthcare platform which provides contraceptive services with online consultations and medical prescriptions. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-darkgreen?style=flat-square&logo=supabase&logoColor=green) |
 
@@ -27,7 +27,7 @@ I'm a passionate developer with diverse interests spanning **Full Stack Developm
 
 ## 🏆 HIGHLIGHTS
 
-| 🎮 [Full Stack SWE] | 🤖 [Robotics/IoT Devices] | 🌐 [Communities and Networking] |
+| 🎮 Full Stack SWE | 🤖 Robotics/IoT Devices | 🌐 Communities and Networking |
 |---|---|---|
 | System Design with advance Full Stack Development | Making small robots and IoT Systems for daily life | I love communities and meeting new people |
 
